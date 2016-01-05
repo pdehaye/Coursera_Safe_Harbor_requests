@@ -3,7 +3,7 @@ Coursera and Safe Harbor
 
 The following are files associated to an ongoing Safe Harbor request for access to personal data held by the company Coursera. These requests are separate from a much older ongoing arbitration procedure, which is covered by confidentiality conditions. In contrast, I can freely talk about the requests here.
 
-Interestingly, Coursera happily claims that instructors have no special data protection rights, even though they signed clear Terms of Services when creating accounts on the platform. This most likely makes it illegal to conduct business in any European country (or region) where partner universities are located. 
+Interestingly, Coursera happily claims that instructors have no special data protection rights, even though they signed clear Terms of Services when creating accounts on the platform. This most likely makes it illegal for Coursera to conduct business in any European country (or region) where partner universities are located. 
 
 
 Initial requests
