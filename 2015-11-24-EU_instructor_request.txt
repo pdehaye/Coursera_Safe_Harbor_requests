@@ -4,31 +4,76 @@ Subject: Access and Notice under US-EU Safe Harbor as Coursera instructor
 
 Dear Coursera Representative,
 
-My name is Paul-Olivier Dehaye, I am a Belgian citizen. I have accounts on the Coursera website associated to the email addresses xxxxxxxxxx@math.uzh.ch and xxxxxxxxxx@gmail.com . 
+My name is Paul-Olivier Dehaye, I am a Belgian citizen. I have accounts on the 
+Coursera website associated to the email addresses xxxxxxxxxx@math.uzh.ch and 
+xxxxxxxxxx@gmail.com . 
 
-In June 2014, I have offered a course on the Coursera platform called "Massive Teaching: New Skills Required", which was meant to discuss online platforms for Massive Open Online Courses. The course intended to cover issues of data protection (particularly with an EU viewpoint), and also discuss leaked Coursera contracts. This course was unilaterally suspended half-way through, and my instructor account was blocked. The circumstances of those actions are not entirely clear to me. You can see the remnants of this course at [1]. 
+In June 2014, I have offered a course on the Coursera platform called "Massive 
+Teaching: New Skills Required", which was meant to discuss online platforms for 
+Massive Open Online Courses. The course intended to cover issues of data 
+protection (particularly with an EU viewpoint), and also discuss leaked 
+Coursera contracts. This course was unilaterally suspended half-way through, 
+and my instructor account was blocked. The circumstances of those actions are 
+not entirely clear to me. You can see the remnants of this course at [1]. 
 
-Since January 2014, Coursera has agreed to comply to the self-regulatory data protection framework called US-EU Safe Harbor, to be enforced by the FTC [2, where I in fact found your email address]. This framework encompasses seven principles [3], and is meant to offer equivalent protection to the EU Directive on the Protection of Personal Data [4]. Two of those principles are Access and Notice. 
+Since January 2014, Coursera has agreed to comply to the self-regulatory data 
+protection framework called US-EU Safe Harbor, to be enforced by the FTC [2, 
+where I in fact found your email address]. This framework encompasses seven 
+principles [3], and is meant to offer equivalent protection to the EU Directive 
+on the Protection of Personal Data [4]. Two of those principles are Access and 
+Notice. 
 
 I would like to ask you for the following:
 
-1. Under Access, I would like to get all the information associated to the deletion and moderation of my own posts (including method used, logic, and timing information) in my own course "Massive Teaching". I seek also to have information whether this moderation or deletion was automated, semi-automated or purely manual. 
+1. Under Access, I would like to get all the information associated to the 
+deletion and moderation of my own posts (including method used, logic, and 
+timing information) in my own course "Massive Teaching". I seek also to have 
+information whether this moderation or deletion was automated, semi-automated 
+or purely manual. 
 
-2. Under Access, I would like to get any email internal to Coursera associated with that course. Since I was sole instructor, this is directly related to me, and thus falls under the "personal data" definition included in [3]. 
+2. Under Access, I would like to get any email internal to Coursera associated 
+with that course. Since I was sole instructor, this is directly related to me, 
+and thus falls under the "personal data" definition included in [3]. 
 
-3. Under Access, I would like to get any email associated with that course that has been exchanged between Coursera and non-journalistic external parties (for instance, members of its Advisory Board or employees of the University of Zurich). Again, since I was sole instructor, this is directly related to me, and thus falls under the "personal data" definition included in [3].  
+3. Under Access, I would like to get any email associated with that course that 
+has been exchanged between Coursera and non-journalistic external parties (for 
+instance, members of its Advisory Board or employees of the University of 
+Zurich). Again, since I was sole instructor, this is directly related to me, 
+and thus falls under the "personal data" definition included in [3].  
 
-4. Under Notice, please inform me of any data that might have been collected or computed about me. This includes any of the hundreds of A/B tests that I might have unknowingly participated in, as an instructor on the platform, either at the time of collection or later on. Under Notice, please also inform me of the logic followed to decide whether to include me or not in those experiments. This would include information about the ethical protocols followed by Coursera to decide whether and how to run this experimentation. This request also includes any information about the building of a "personality profile" [4], based on my interactions with the platform. 
+4. Under Notice, please inform me of any data that might have been collected or 
+computed about me. This includes any of the hundreds of A/B tests that I might 
+have unknowingly participated in, as an instructor on the platform, either at 
+the time of collection or later on. Under Notice, please also inform me of the 
+logic followed to decide whether to include me or not in those experiments. 
+This would include information about the ethical protocols followed by Coursera 
+to decide whether and how to run this experimentation. This request also 
+includes any information about the building of a "personality profile" [4], 
+based on my interactions with the platform. 
 
-5. Under Notice, please provide me with a listing of all the third parties that Coursera has shared or intends to share my data with, and the conditions that governed this transfer (a data policy, for instance). This would include confirmation or denial of any transfer or intent to transfer my data to law enforcement or intelligence services, confirmation or denial of any transfer or intent to transfer my data to for-profit or nonprofit universities, and confirmation or denial of any transfer or intent to transfer my data with potential investors or buyers of Coursera.
+5. Under Notice, please provide me with a listing of all the third parties that 
+Coursera has shared or intends to share my data with, and the conditions that 
+governed this transfer (a data policy, for instance). This would include 
+confirmation or denial of any transfer or intent to transfer my data to law 
+enforcement or intelligence services, confirmation or denial of any transfer or 
+intent to transfer my data to for-profit or nonprofit universities, and 
+confirmation or denial of any transfer or intent to transfer my data with 
+potential investors or buyers of Coursera.
 
-It is my understanding that Coursera has 40 days to comply with this request, which would bring us to January 4th 2016. Should you have any clarifying question, for instance about the scope of my requests, I would be happy to answer, but this would most likely eat into that time period. Should you fail to fully comply with this request within that time period, I reserve the right to use any or all possible avenues to exercise my rights.
+It is my understanding that Coursera has 40 days to comply with this request, 
+which would bring us to January 4th 2016. Should you have any clarifying 
+question, for instance about the scope of my requests, I would be happy to 
+answer, but this would most likely eat into that time period. Should you fail 
+to fully comply with this request within that time period, I reserve the right 
+to use any or all possible avenues to exercise my rights.
 
 Sincerely,
 
 Paul-Olivier Dehaye
 
 [1] https://www.coursera.org/course/massiveteaching
-[2] https://safeharbor.export.gov/companyinfo.aspx?id=26126 (accessed Nov 24 2015)
+[2] https://safeharbor.export.gov/companyinfo.aspx?id=26126 (accessed Nov 24 
+2015)
 [3] http://export.gov/safeharbor/eu/eg_main_018475.asp (accessed Nov 24 2015)
-[4] http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV:l14012 (accessed Nov 24 2015)
+[4] http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV:l14012 (accessed 
+Nov 24 2015)
