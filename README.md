@@ -13,20 +13,20 @@ There are in fact for separate original requests, due to my Belgian nationality 
 
 I have chosen to formulate my original requests as four separate emails: 
 
- - 2015-11-24-CH_instructor_request.txt
- - 2015-11-24-EU_instructor_request.txt
- - 2015-11-24-CH_student_request.txt
- - 2015-11-24-EU_student_request.txt
+ - [2015-11-24-CH_instructor_request.txt](2015-11-24-CH_instructor_request.txt)
+ - [2015-11-24-EU_instructor_request.txt](2015-11-24-EU_instructor_request.txt)
+ - [2015-11-24-CH_student_request.txt](2015-11-24-CH_student_request.txt)
+ - [2015-11-24-EU_student_request.txt](2015-11-24-EU_student_request.txt)
 
 Since the variations are minor between the EU and the Swiss Safe Harbor frameworks, I have also decided to include a consolidated version, only for information purposes (this was never sent!):
  
- - 2015-11-24-consolidated_instructor_request.txt
- - 2015-11-24-consolidated_student_request.txt
+ - [2015-11-24-consolidated_instructor_request.txt](2015-11-24-consolidated_instructor_request.txt)
+ - [2015-11-24-consolidated_student_request.txt](2015-11-24-consolidated_student_request.txt)
 
 The curly braces {} are used to indicate the variations. 
 
 Coursera response
 -----------------
 
-Coursera responded in 2016-01-04-Coursera_response.pdf.
+Coursera responded in [2016-01-04-Coursera_response.pdf](2016-01-04-Coursera_response.pdf).
 
