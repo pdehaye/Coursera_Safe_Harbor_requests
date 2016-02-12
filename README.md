@@ -30,5 +30,5 @@ Coursera response
 
 Coursera responded in [2016-01-04-Coursera_response.pdf](2016-01-04-Coursera_response.pdf). I was rather doubtful of the legality of some of the arguments advanced by Coursera on the matter, so [I filed several complaints with local Data Protection Authorities](https://medium.com/@pdehaye/i-am-filing-today-a-privacy-complaint-in-twelve-european-regions-against-coursera-inc-72580000910c). Coursera [expanded on their initial reply later](2016-02-12-Coursera_response_2.pdf), by including:
  - pictures used for indentification purposes [1](1.png), [2](2.png), [3](3.png), [4](4.png).
- - a typing sample [xls](typing_sample.xlsx), [csv](typing_sample.csv)
+ - a typing sample [xls](typing_sample.xlsx), [csv](typing_sample.csv), [explanation](explanation.md)
 
