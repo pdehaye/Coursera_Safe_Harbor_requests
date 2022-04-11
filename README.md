@@ -32,3 +32,6 @@ Coursera responded in [2016-01-04-Coursera_response.pdf](2016-01-04-Coursera_res
  - pictures used for indentification purposes [1](1.png), [2](2.png), [3](3.png), [4](4.png).
  - a typing sample [xls](typing_sample.xlsx), [csv](typing_sample.csv), [explanation](explanation.md)
 
+Research
+--------
+The data presented here has served in [research on artifacts of USB keyboards for keystroke biometrics](http://reports-archive.adm.cs.cmu.edu/anon/anon/home/ftp/usr0/ftp/2020/CMU-CS-20-134.pdf).
